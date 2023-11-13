@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/advice-generator-mobile-first-cXGEu_cqqV)
 - Live Site URL: [My solution](https://frontend-mentor-9-xi.vercel.app/)
 
 ## My process
