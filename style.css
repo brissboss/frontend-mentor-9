@@ -10,23 +10,6 @@
     text-decoration: none;
 }
 
-:root {
-    --shadow-color: 286deg 36% 49%;
-    --shadow-elevation-low:
-      0.9px 0.8px 1.3px hsl(var(--shadow-color) / 0.65),
-      4px 3.6px 6px -2.6px hsl(var(--shadow-color) / 0.63);
-    --shadow-elevation-medium:
-      0.9px 0.8px 1.3px hsl(var(--shadow-color) / 0.61),
-      5px 4.5px 7.5px -1.3px hsl(var(--shadow-color) / 0.59),
-      20.1px 17.9px 29.9px -2.6px hsl(var(--shadow-color) / 0.58);
-    --shadow-elevation-high:
-      0.9px 0.8px 1.3px hsl(var(--shadow-color) / 0.68),
-      10px 8.9px 14.9px -0.6px hsl(var(--shadow-color) / 0.67),
-      24.3px 21.7px 36.2px -1.3px hsl(var(--shadow-color) / 0.66),
-      54.2px 48.3px 80.6px -1.9px hsl(var(--shadow-color) / 0.65),
-      109.8px 97.9px 163.3px -2.6px hsl(var(--shadow-color) / 0.64);
-  }
-
 body {
     font-family: 'Manrope', sans-serif;
     font-weight: 800;
